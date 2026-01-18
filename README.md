@@ -10,7 +10,7 @@ This repo contains beginner‑level PHP exercises and examples designed to help 
 This project demonstrates basic PHP topics including:
 
 - Arithmetic Operators  
-- Arrays  
+- Arrays   
 - Conditional Statements  
 - Loops  
 

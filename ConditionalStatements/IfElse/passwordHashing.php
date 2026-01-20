@@ -20,7 +20,7 @@ $password = $_POST['password'];
 
 $hashed = password_hash($password, PASSWORD_DEFAULT);
 
-echo $hashed;
+echo $hashed . "<br>";
 
 if (password_verify("1234", $hashed)) {
     echo "Password Correct";

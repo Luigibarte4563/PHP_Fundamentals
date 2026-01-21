@@ -6,12 +6,12 @@
     <title>Document</title>
 </head>
 <body>
-    <form action="plus.php" method="POST">
-        <label for="number1">Number 1</label>
-        <input type="number" name="num1"><br>
-        <label for="number2">Number 2</label>
-        <input type="number" name="num2"><br>
-        <input type="submit">
+    <form action="plus.php" method="post">
+        <label class="label" for="number1">Number 1</label>
+        <input class="input" type="number" name="num1"><br>
+        <label class="label" for="number2">Number 2</label>
+        <input class="input" type="number" name="num2"><br>
+        <input class="submit" type="submit">
     </form>
 </body>
 </html>

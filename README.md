@@ -3,14 +3,14 @@
 Welcome to the **PHP Fundamentals** repository!  
 This repo contains beginner‑level PHP exercises and examples designed to help you understand the core building blocks of PHP programming.
 
----
+--- 
 
 ## 🚀 Overview
 
 This project demonstrates basic PHP topics including:
 
 - Arithmetic Operators  
-- Arrays  
+- Arrays   
 - Conditional Statements  
 - Loops  
 

@@ -6,4 +6,4 @@ $user = [
 
 print_r(array_keys($user));
 print_r(array_values($user));
-?>
+?> 

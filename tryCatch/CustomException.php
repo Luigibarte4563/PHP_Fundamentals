@@ -1,5 +1,5 @@
 <?php
-zfunction devide($a, $b) {
+function devide($a, $b) {
     if($b == 0) {
         throw new Exception("Cannot devide by zero");
     }

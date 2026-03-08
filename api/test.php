@@ -3,6 +3,6 @@ header("Content-Type: application/json");
 
 echo json_encode([
     "status" => "success",
-    "message" => "API is working!"
+    "message" => "API is working!" 
 ]);
 ?>

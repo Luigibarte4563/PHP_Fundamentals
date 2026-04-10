@@ -6,7 +6,7 @@ This repo contains beginner‑level PHP exercises and examples designed to help 
 --- 
 
 ## 🚀 Overview    
-
+    
 This project demonstrates basic PHP topics including:
 
 - Arithmetic Operators  
